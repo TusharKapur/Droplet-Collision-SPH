@@ -2,6 +2,10 @@
 
 Simulation of colllision of two water droplets suspended in air medium using the Smoothed Particle Hydrodynamics SPHinXsys library.
 
+## Documentation
+
+For the documentation of this implementation, refer to the file `Documentation.pdf`.
+
 ## Visualization
 
 <img width="426" alt="Screenshot 2024-03-12 at 19 14 07" src="https://github.com/TusharKapur/Droplet-Collision-SPH/assets/107989848/67a3e10b-03bc-4aaf-81a5-bb4d636ae85c">
