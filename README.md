@@ -1,6 +1,6 @@
 # Droplet Collision using the SPHinXsys library
 
-Simulation of colllision of two water droplets suspended in air medium using the Smoothed Particle Hydrodynamics SPHinXsys library.
+Simulation of collision of two droplets using the Smoothed Particle Hydrodynamics SPHinXsys library.
 
 ## Documentation
 
